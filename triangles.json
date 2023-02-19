@@ -1,0 +1,55 @@
+[
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 0,
+    "vertices": [[0, 0, 1],[0, 1, 1],[1, 1, 1]], "emitted": [0, 0, 0], "refract": false
+  },
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 0,
+    "vertices": [[1, 1, 1],[1, 0, 1],[0, 0, 1]], "emitted": [0, 0, 0], "refract": false
+  },
+
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 0,
+    "vertices": [[0, 1, 0],[1, 1, 1],[0, 1, 1]], "emitted": [0, 0, 0], "refract": false
+  },
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 0,
+    "vertices": [[1, 1, 1],[0, 1, 0],[1, 1, 0]], "emitted": [0, 0, 0], "refract": false
+  },
+
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 0, 0], "specular": [0.3,0.3,0.3], "n": 0,
+    "vertices": [[0, 1, 1],[0, 0, 0],[0, 1, 0]], "emitted": [0, 0, 0], "refract": false
+  },
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 0, 0], "specular": [0.3,0.3,0.3], "n": 0,
+    "vertices": [[0, 1, 1],[0, 0, 1],[0, 0, 0]], "emitted": [0, 0, 0], "refract": false
+  },
+
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [0, 0, 1], "specular": [0.3,0.3,0.3], "n": 2,
+    "vertices": [[1, 0, 0],[1, 1, 1],[1, 1, 0]], "emitted": [0, 0, 0], "refract": false
+  },
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [0, 0, 1], "specular": [0.3,0.3,0.3], "n": 2,
+    "vertices": [[1, 1, 1],[1, 0, 0],[1, 0, 1]], "emitted": [0, 0, 0], "refract": false
+  },
+
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 2,
+    "vertices": [[0, 0, 0],[0, 0, 1],[1, 0, 1]], "emitted": [0, 0, 0], "refract": false
+  },
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 2,
+    "vertices": [[1, 0, 1],[1, 0, 0],[0, 0, 0]], "emitted": [0, 0, 0], "refract": false
+  },
+
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 2,
+    "vertices": [[1, 1, 0],[0, 1, 0],[0, 0, 0]], "emitted": [0, 0, 0], "refract": false
+  },
+  {
+    "ambient": [0.1,0.1,0.1], "diffuse": [1, 1, 1], "specular": [0.3,0.3,0.3], "n": 2,
+    "vertices": [[1, 1, 0],[0, 0, 0],[1, 0, 0]], "emitted": [0, 0, 0], "refract": false
+  }
+]

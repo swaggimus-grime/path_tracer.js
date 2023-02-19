@@ -12,3 +12,4 @@ Open the index.html file in any web browser. If any JSON files are not loading, 
 - Specular BRDF
 
 ## Screenshot
+![screenshot](https://github.com/swaggimus-grime/path_tracer.js/blob/925edbefed093cc278ef58182914aff89eb882b7/screenshot.png)
